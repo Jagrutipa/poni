@@ -1,4 +1,4 @@
-l=[]
+l=[] #this is a pyton program
 n=int(input('number='))
 print('enter',n,'numbers into list=')
 i=0
